@@ -9,7 +9,7 @@
 **Command:**
 
 ```
-git pull https://github.com/liteshghute/meetsummarizer.git main
+git clone https://github.com/liteshghute/meetsummarizer.git main
 ```
 
 **Step 2:** Open the "constant.py" file and add your openai key.
