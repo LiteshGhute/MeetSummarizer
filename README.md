@@ -6,6 +6,8 @@
 
 **Step 1:** Clone the github repository.
 
+**Command:**
+
 ```
 git pull https://github.com/liteshghute/meetsummarizer.git main
 ```
