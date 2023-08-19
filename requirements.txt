@@ -1,9 +1,6 @@
 pathlib
-tkinter
-PIL
 pywhisper
 langchain
 soundcard
 soundfile
 datetime
-threading
