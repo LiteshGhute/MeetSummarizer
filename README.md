@@ -6,6 +6,10 @@
 
 **Step 1:** Clone the github repository.
 
+```
+git pull https://github.com/liteshghute/meetsummarizer.git main
+```
+
 **Step 2:** Open the "constant.py" file and add your openai key.
 
 **Step 3:** Install the required packages with the following command:
