@@ -118,7 +118,7 @@ def on_stop_button_click():
     if not stopStatus:
         stopStatus = True
         print("Recording stopped")
-        messagebox.showinfo("Dialog", "Recording stopped")
+        messagebox.showinfo("Dialog", "Recording stopped. Please click on the summarize button to summarize the captured audio!")
         start_button.config(image=start_button_image)
         stop_animation()
     else:
